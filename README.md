@@ -51,7 +51,7 @@ To run inference, first navigate to the LLM directory with the following command
 ```python
 cd LLM
 ```
-> To run inference on the scenarios **Admitting Unknowns**, **Expressing Knowns**, **Burglar Deception**, **Game**, and **Demonstration Format** skip to [this section](#evaluation).
+> To run inference on the scenarios **Admitting Unknowns**, **Expressing Knowns**, **Burglar Deception**, **Game**, and **Demonstration Format** skip to the Evaluation section.
 
 ### Step 2.1:
 To run the supported models on vLLM, navigate to the vLLM directory and run:
