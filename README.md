@@ -143,7 +143,7 @@ bash test_mcq.sh
 ```
 
 #### - **Demonstration Format**:
-Retrieve the dataset for this scenario from [this github repo](https://github.com/milesaturpin/cot-unfaithfulness/tree/main/data/bbh) first and save them in the path `/Demonstration_Format/bbh/${task}/xxx.json`. Then, you can run inference and evaluation with the following:
+Retrieve the dataset for this scenario from the BBH dataset. Save them in the path `/Demonstration_Format/bbh/${task}/xxx.json`. Then, you can run inference and evaluation with the following:
 
 ```python
 cd Consistency
